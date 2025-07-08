@@ -1,4 +1,4 @@
-# Github AI Assistant 🤖  Link:[deployed link on gcp](https://github-ai-assistant-948064657022.us-central1.run.app/)
+# Github AI Assistant 🤖  Link:[deployed link on gcp](https://github-ai-assistant-948064657022.us-central1.run.app/) Currently active
 
 Welcome to the **Github AI Assistant**, an innovative tool designed to make exploring and understanding codebases effortless! With natural language queries, this chatbot empowers developers, data scientists, and teams to interact with code repositories seamlessly, whether you’re debugging, onboarding, or generating documentation. Works for `.py` and `.ipynb` only.
 
